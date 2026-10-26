@@ -1,6 +1,6 @@
 ## ESPAÑOL
 
-[English version — jump to English](#english)
+[Jump to English version](#english)
 # Introducción a MNE-Python 🧠👨‍💻
 
 **Tutorial exploratorio de procesamiento de datos de EEG en Python.**
@@ -91,7 +91,7 @@ El conjunto de datos *EEG Motor Movement/Imagery Dataset* se obtiene desde Physi
 
 Los restantes materiales de terceros conservan sus respectivas condiciones de licencia. Antes de reutilizar o redistribuir componentes del repositorio, se deben consultar sus atribuciones y licencias específicas.
 
-## English
+## ENGLISH
 
 [Volver a la versión en español](#español)
 
