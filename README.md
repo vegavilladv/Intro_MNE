@@ -93,6 +93,8 @@ Los restantes materiales de terceros conservan sus respectivas condiciones de li
 
 ## English
 
+[🇪🇸 Volver a la versión en español](#español)
+
 # Introduction to MNE-Python 🧠👨‍💻
 
 **An exploratory tutorial on EEG data processing in Python.**
