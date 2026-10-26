@@ -1,6 +1,6 @@
 ## ESPAÑOL
 
-[🇬🇧 English version — jump to English](#english)
+[English version — jump to English](#english)
 # Introducción a MNE-Python 🧠👨‍💻
 
 **Tutorial exploratorio de procesamiento de datos de EEG en Python.**
@@ -93,7 +93,7 @@ Los restantes materiales de terceros conservan sus respectivas condiciones de li
 
 ## English
 
-[🇪🇸 Volver a la versión en español](#español)
+[Volver a la versión en español](#español)
 
 # Introduction to MNE-Python 🧠👨‍💻
 
