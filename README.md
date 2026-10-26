@@ -45,9 +45,6 @@ La estructura y parte de la secuencia pedagógica de este proyecto se inspiran e
 
 Este repositorio utiliza dicha obra como referente educativo, pero **no pretende reproducir su contenido original**. El presente proyecto desarrolla una propuesta propia, con ejemplos, explicaciones y decisiones de implementación seleccionados en función de sus objetivos educativos. No pretende traducir ni reproducir sistemáticamente el contenido de la obra original. Los fragmentos de código, recursos visuales y otros elementos que se reproducen o utilizan directamente se atribuyen en el lugar correspondiente, indicando su procedencia y las condiciones de licencia aplicables.
 
-El tutorial también se apoya en la documentación oficial de MNE-Python y en literatura científica relacionada con el procesamiento, el filtrado, la referencia, la detección de artefactos, el análisis espectral y las prácticas reproducibles en EEG.
-
-
 El tutorial también se apoya en la documentación oficial de MNE-Python y en literatura científica relacionada con el procesamiento, filtrado, referencia, detección de artefactos, análisis espectral y prácticas reproducibles en EEG. Cuando una explicación, procedimiento, ejemplo o recurso visual deriva directamente de una fuente específica, se procura identificarlo y atribuirlo en el lugar correspondiente, distinguiendo entre el contenido adaptado y las modificaciones o desarrollos propios.
 
 ## Datos
@@ -86,7 +83,7 @@ Consulta el texto completo de la licencia: https://creativecommons.org/licenses/
 
 Este repositorio contiene desarrollos propios y referencias a recursos de terceros. La licencia del proyecto se aplica únicamente a los materiales sobre los que el autor tiene derechos para otorgarla. Es decir, no se extiende automáticamente a los materiales de terceros. Las fuentes y atribuciones específicas se indican en el lugar pertinente del cuaderno o de la documentación.
 
-El recurso *[Data Science for Psychology and Neuroscience - in Python](https://neuraldatascience.io/)*, de Newman et al. (2020), se utiliza como referente educativo y metodológico. Los elementos concretos reproducidos o utilizados directamente se identifican en el cuaderno, junto con su procedencia y las condiciones de licencia aplicables. El uso de esta obra como referente no implica que la totalidad de este proyecto constituya una adaptación de su contenido.
+El recurso *[Data Science for Psychology and Neuroscience - in Python](https://neuraldatascience.io/)*, de Newman et al. (2020), se utiliza como referente educativo y metodológico. Los elementos concretos reproducidos o utilizados directamente se identifican en el cuaderno. Este recurso también se distribuye bajo la CC BY-NC-SA 4.0. El uso de esta obra como referente no implica que la totalidad de este proyecto constituya una adaptación de su contenido. 
 
 El conjunto de datos *EEG Motor Movement/Imagery Dataset* se obtiene desde PhysioNet mediante las herramientas de acceso a datos de MNE-Python. La fuente corresponde a la versión 1.0.0 del conjunto, DOI: https://doi.org/10.13026/C28G6P. Los archivos están sujetos a la Open Data Commons Attribution License v1.0 (ODC-BY 1.0), cuyas condiciones deben respetarse en los usos correspondientes.
 
@@ -182,7 +179,7 @@ Read the full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 This repository contains original work and references to third-party resources. The project's license applies only to materials for which the author has the rights to grant such a license. It does not automatically extend to third-party materials. Specific sources and attributions are indicated in the relevant notebook sections or documentation.
 
-The resource *[Data Science for Psychology and Neuroscience - in Python](https://neuraldatascience.io/)* by Newman et al. (2020) is used as an educational and methodological reference. Specific elements reproduced or directly used are identified in the notebooks, along with their sources and applicable licensing terms. Using this work as a reference does not imply that the project as a whole constitutes an adaptation of its content.
+The resource *[Data Science for Psychology and Neuroscience - in Python](https://neuraldatascience.io/)* by Newman et al. (2020) is used as an educational and methodological reference. Specific elements reproduced or directly used are identified in the notebooks.This resource is also distributed under the CC BY-NC-SA 4.0 license. Using this work as a reference does not imply that the project as a whole constitutes an adaptation of its content.
 
 The *EEG Motor Movement/Imagery Dataset* is obtained from PhysioNet using MNE-Python's data access tools. The source corresponds to version 1.0.0 of the dataset, DOI: https://doi.org/10.13026/C28G6P. The dataset files are subject to the Open Data Commons Attribution License v1.0 (ODC-BY 1.0), whose terms must be respected in applicable uses.
 
