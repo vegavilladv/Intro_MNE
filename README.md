@@ -1,4 +1,4 @@
-## ESPAÑOL | [ENGLISH VERSION ↓](#ENGLISH)
+## ESPAÑOL | [ENGLISH VERSION ↓](#english)
 # Introducción a MNE-Python 🧠👨‍💻
 
 **Tutorial exploratorio de procesamiento de datos de EEG en Python.**
